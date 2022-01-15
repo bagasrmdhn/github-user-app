@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="menu_1">menu 1</string>
+    <string name="menu_2">menu 2</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="user_name">user name</string>
+    <string name="user_detail">user detail</string>
+    <string name="_0">0</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="username">Username</string>
+    <string name="name">name</string>
+    <string name="company_name">company name</string>
+    <string name="location">location</string>
+    <string name="splash">splash</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">favorite</string>
+    <string name="preference">preference</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
